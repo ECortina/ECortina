@@ -29,8 +29,5 @@ Data scientist and forensic psychologist, with knowledge of computer science, te
 
 <br />
 
-## Connect with me
 
-[<img align="left" alt="Daniel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rendon-enrique/)
-[<img align="left" alt="danielmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gmail_Icon.svg/1024px-Gmail_Icon.svg.png" />](cortina.er@gmail.com)
 
